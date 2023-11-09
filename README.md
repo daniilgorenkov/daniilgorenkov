@@ -7,7 +7,8 @@
 - ⚡ В железнодорожной области могу заниматься динамическим моделированием вагонов и чертежами 
 ## Контакты
 📫 Для связи можно написать на почту gorenkov.daniil@gmail.com или в tg: https://t.me/DaniilGorenkov
-
+## Сертификат о прохождении курсов
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/Сертификат%20о%20прохождении%20курсов%20Start%20ML.pdf)
 <!--
 **daniilgorenkov/daniilgorenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
