@@ -6,7 +6,9 @@
 - ⚡ Ко всему вышеперечисленному хочу добавить, что в совершенстве знаю Испанский язык (C1), Английский на уровне (B2). 4 раза становился чемпионом мира по карате, имею 2 дан.
 - ⚡ В железнодорожной области могу заниматься динамическим моделированием вагонов и чертежами 
 ## Languages and tools
-![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/pandas_logo.png), ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/NumPy_logo.png), ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/scikit-learn.png),![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/CatBoostLogo.png), ![Image alt](https://github.com/https://github.com/daniilgorenkov/daniilgorenkov/blob/main/light_gbm_logo.png), ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/xgboost_logo.png)
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/pandas_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/NumPy_logo.png) 
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/scikit-learn.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/CatBoostLogo.png) 
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/light_gbm_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/xgboost_logo.png)
 ## Контакты
 📫 Для связи можно написать на почту gorenkov.daniil@gmail.com или в tg: https://t.me/DaniilGorenkov
 ## Сертификат о прохождении курсов
