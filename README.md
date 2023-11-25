@@ -9,6 +9,10 @@
 ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/pandas_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/NumPy_logo.png) 
 ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/scikit-learn.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/CatBoostLogo.png) 
 ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/light_gbm_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/xgboost_logo.png)
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/AirflowLogo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/fastapi_logo.png)
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/hf_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/pytorch_logo.png)
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/seaborn_logo.png) ![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/matplotlib_logo.png)
+![Image alt](https://github.com/daniilgorenkov/daniilgorenkov/blob/main/keras_tf_logo.png)
 ## Контакты
 📫 Для связи можно написать на почту gorenkov.daniil@gmail.com или в tg: https://t.me/DaniilGorenkov
 ## Сертификат о прохождении курсов
